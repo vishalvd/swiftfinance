@@ -1,0 +1,108 @@
+  *{
+    font-family: 'Trebuchet MS';
+    color: #515154;
+    
+
+  }
+  div{
+  background: #ffffff;
+  }
+  body{
+  background: #fbfbfd;
+  }
+   input{
+    font-size: 12pt;
+  }
+   input{
+    font-size: 12pt;
+  }
+    /* .outer{
+  width: 35%;
+  margin: 0 auto;
+  border: 1pt solid gainsboro;
+  
+}
+.inner{
+  width: 85%;
+  margin: 0 auto;
+  /* border: 1pt solid red; 
+} 
+*/
+.outer1{
+  width: 70%;
+  margin: 0 auto;
+  border: 1pt solid gainsboro;
+  text-align: center; 
+  border-radius: 5px;
+  
+}
+.inner1{
+  width: 80%;
+  margin: 0 auto;
+border: 1pt solid white;  
+}
+.inner2{
+  width: 44%;
+  margin: 0 10px;
+  display: inline-block;
+  text-align: left  ;
+  padding: 1%;
+ 
+
+border: 1pt solid white;  
+}
+.minmax{
+  color: grey;
+  font-size: small;
+}
+input[type=range]{
+  width: 100%;
+}
+#hr{
+  
+  margin: 0 auto;
+  border-bottom: 1pt solid gainsboro;
+}
+.emiamount{
+  font-size: 14pt; 
+  float: right; 
+   border: none;
+   padding-right: 1px;
+   text-align: right;
+  cursor: default;
+}
+.emiamount:focus {
+  outline: none !important;
+}
+select{
+  height: 27px;
+  line-height: 27px;
+  margin-left: 15px;
+  text-transform: none;
+  border-radius: 3px;
+  font-size: 11pt;
+  width: 184px;
+}
+button{
+ 
+  padding: 7px 17px;
+  border-radius: 3px;
+  border: none;
+  cursor:pointer;
+}
+.summitbutton:hover {
+  background-color: #107fc4;
+}
+.summitbutton{
+  color: white;
+  background-color: #118dda;
+}
+table{
+	width:100%;
+	 border: 1pt solid gainsboro;
+	  border-collapse: collapse;
+	  
+}
+td{
+	padding: 3px 3px 3px 3px;
+}
